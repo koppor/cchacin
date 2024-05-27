@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with the [MicroGen][microgen] project
 - 💬 Ask me about: Unit Testing, TDD, Dependency Injection
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I wanted to be a professional soccer player 🤣
 
 ### 📫 Connect with me:
